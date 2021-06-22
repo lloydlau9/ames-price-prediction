@@ -11,6 +11,8 @@
 
 Provided with Ames housing data, there many contributing features that could possibly be of great impact or less in influencing housing prices. With this insight, house buyers could look into the more prominent and proper type of feature to make a judgement to assist propery companies to make a better rated pricing for houses. With this awareness of selectivity in the contributing predictive features, a proposed model will be constructed to allow an economical or a competitive pricing to be improved for potential house buyers and sellers.  
 
+Kaggle Challenge Site: https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge/data
+
 ## Problem Statement
 
 There are many feature predictors based on which may potentially greatly affect the sales price of houses in Ames. The focus for this project is to streamline it down from all the feature predictors to the top 5 features that may greatly be of a potential impact to the sales price of housing in Ames.
